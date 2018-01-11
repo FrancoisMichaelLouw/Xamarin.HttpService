@@ -13,6 +13,7 @@
             <summary>
             Cross platform Xamarin_HttpService implemenations
             </summary>
+            
         </member>
         <member name="P:Plugin.Xamarin_HttpService.CrossXamarin_HttpService.Current">
             <summary>

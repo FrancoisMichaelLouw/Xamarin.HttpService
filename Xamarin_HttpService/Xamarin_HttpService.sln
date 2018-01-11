@@ -11,8 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin.Xamarin_HttpService.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin.Xamarin_HttpService.Android", "Xamarin_HttpService\Plugin.Xamarin_HttpService.Android\Plugin.Xamarin_HttpService.Android.csproj", "{56A56F17-7DE1-4CA1-9617-BF32E971AC84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin.Xamarin_HttpService.Tests", "Plugin.Xamarin_HttpService.Tests\Plugin.Xamarin_HttpService.Tests.csproj", "{7E1DA13B-0AB0-4F2D-9250-5F4DA1BE1E7F}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,10 +33,6 @@ Global
 		{56A56F17-7DE1-4CA1-9617-BF32E971AC84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56A56F17-7DE1-4CA1-9617-BF32E971AC84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56A56F17-7DE1-4CA1-9617-BF32E971AC84}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7E1DA13B-0AB0-4F2D-9250-5F4DA1BE1E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7E1DA13B-0AB0-4F2D-9250-5F4DA1BE1E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7E1DA13B-0AB0-4F2D-9250-5F4DA1BE1E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7E1DA13B-0AB0-4F2D-9250-5F4DA1BE1E7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
