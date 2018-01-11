@@ -1,0 +1,13 @@
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Xamarin_HttpService\Xamarin_HttpService\Plugin.Xamarin_HttpService.iOS\bin\iPhone\Release\Plugin.Xamarin_HttpService.XML
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Xamarin_HttpService\Xamarin_HttpService\Plugin.Xamarin_HttpService.iOS\bin\iPhone\Release\Plugin.Xamarin_HttpService.dll
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Xamarin_HttpService\Xamarin_HttpService\Plugin.Xamarin_HttpService.iOS\bin\iPhone\Release\Newtonsoft.Json.dll
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Xamarin_HttpService\Xamarin_HttpService\Plugin.Xamarin_HttpService.iOS\bin\iPhone\Release\Plugin.Xamarin_HttpService.Abstractions.dll
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Xamarin_HttpService\Xamarin_HttpService\Plugin.Xamarin_HttpService.iOS\bin\iPhone\Release\Plugin.Xamarin_HttpService.Abstractions.pdb
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Xamarin_HttpService\Xamarin_HttpService\Plugin.Xamarin_HttpService.iOS\bin\iPhone\Release\Plugin.Xamarin_HttpService.Abstractions.xml
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Xamarin_HttpService\Xamarin_HttpService\Plugin.Xamarin_HttpService.iOS\bin\iPhone\Release\Plugin.Xamarin_HttpService.pdb
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Xamarin_HttpService\Xamarin_HttpService\Plugin.Xamarin_HttpService.iOS\bin\iPhone\Release\Newtonsoft.Json.xml
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Xamarin_HttpService\Xamarin_HttpService\Plugin.Xamarin_HttpService.iOS\obj\Release\optimized\
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Xamarin_HttpService\Xamarin_HttpService\Plugin.Xamarin_HttpService.iOS\obj\Release\Plugin.Xamarin_HttpService.iOS.csprojResolveAssemblyReference.cache
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Xamarin_HttpService\Xamarin_HttpService\Plugin.Xamarin_HttpService.iOS\obj\Release\Plugin.Xamarin_HttpService.dll
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Xamarin_HttpService\Xamarin_HttpService\Plugin.Xamarin_HttpService.iOS\obj\Release\Plugin.Xamarin_HttpService.dll.mdb
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Xamarin_HttpService\Xamarin_HttpService\Plugin.Xamarin_HttpService.iOS\bin\iPhone\Release\Plugin.Xamarin_HttpService.dll.mdb

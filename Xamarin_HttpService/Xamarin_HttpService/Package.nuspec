@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>FML.Xamarin.Http_Service</id>
+    <version>0.0.3</version>
+    <authors>Francois Michael Louw</authors>
+    <owners>Francois Michael Louw</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Functionality to handle all http calls and events for your Mobile Xamarin App</description>
+    <releaseNotes>This is the first release with basic implementation of the http service, eg. PostAsync and GetAsync</releaseNotes>
+    <copyright>Copyright 2018 - FML</copyright>
+    <tags>HTTP</tags>
+    <!-- <dependencies> -->
+      <!-- <dependency id="SampleDependency" version="1.0" /> -->
+    <!-- </dependencies> -->
+  </metadata>
+    <files>
+    <!-- Cross-platform reference assemblies -->
+    <file src="Plugin.Xamarin_HttpService\bin\Release\Plugin.Xamarin_HttpService.dll" target="lib\netstandard1.4\Plugin.Xamarin_HttpService.dll" />
+    <file src="Plugin.Xamarin_HttpService\bin\Release\Plugin.Xamarin_HttpService.xml" target="lib\netstandard1.4\Plugin.Xamarin_HttpService.xml" />
+    <file src="Plugin.Xamarin_HttpService.Abstractions\bin\Release\Plugin.Xamarin_HttpService.Abstractions.dll" target="lib\netstandard1.4\Plugin.Xamarin_HttpService.Abstractions.dll" />
+    <file src="Plugin.Xamarin_HttpService.Abstractions\bin\Release\Plugin.Xamarin_HttpService.Abstractions.xml" target="lib\netstandard1.4\Plugin.Xamarin_HttpService.Abstractions.xml" />
+
+    <!-- iOS reference assemblies -->
+    <file src="Plugin.Xamarin_HttpService.iOS\bin\iPhone\Release\Plugin.Xamarin_HttpService.dll" target="lib\Xamarin.iOS10\Plugin.Xamarin_HttpService.dll" />
+    <file src="Plugin.Xamarin_HttpService.iOS\bin\iPhone\Release\Plugin.Xamarin_HttpService.xml" target="lib\Xamarin.iOS10\Plugin.Xamarin_HttpService.xml" />
+
+    <!-- Android reference assemblies -->
+    <file src="Plugin.Xamarin_HttpService.Android\bin\Release\Plugin.Xamarin_HttpService.dll" target="lib\MonoAndroid10\Plugin.Xamarin_HttpService.dll" />
+    <file src="Plugin.Xamarin_HttpService.Android\bin\Release\Plugin.Xamarin_HttpService.xml" target="lib\MonoAndroid10\Plugin.Xamarin_HttpService.xml" />
+	</files>
+</package>

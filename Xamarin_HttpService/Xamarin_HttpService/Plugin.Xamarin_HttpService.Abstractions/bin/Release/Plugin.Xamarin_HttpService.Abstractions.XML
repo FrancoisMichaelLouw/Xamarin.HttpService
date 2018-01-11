@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.Xamarin_HttpService.Abstractions</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.Xamarin_HttpService.Abstractions.Interfaces.IXamarin_HttpService_PlatformImplementation">
+            <summary>
+            Implementation for Feature
+            </summary>
+        </member>
+        <member name="T:Plugin.Xamarin_HttpService.Abstractions.IXamarin_HttpService">
+            <summary>
+            Interface for Xamarin_HttpService
+            </summary>
+        </member>
+    </members>
+</doc>

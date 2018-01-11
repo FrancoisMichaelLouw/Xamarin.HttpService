@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.Xamarin_HttpService</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.Xamarin_HttpService.CrossXamarin_HttpService">
+            <summary>
+            Cross platform Xamarin_HttpService implemenations
+            </summary>
+        </member>
+        <member name="M:Plugin.Xamarin_HttpService.CrossXamarin_HttpService.Init(System.String)">
+            <summary>
+            Cross platform Xamarin_HttpService implemenations
+            </summary>
+        </member>
+        <member name="P:Plugin.Xamarin_HttpService.CrossXamarin_HttpService.Current">
+            <summary>
+            Current settings to use
+            </summary>
+        </member>
+        <member name="P:Plugin.Xamarin_HttpService.CrossXamarin_HttpService.Current_PCL">
+            <summary>
+            Current settings to use for PCL
+            </summary>
+        </member>
+        <member name="T:Plugin.Xamarin_HttpService.Implementation.Xamarin_HttpServicePCLImplementation">
+            <summary>
+            Current settings to use for PCL
+            </summary>
+        </member>
+        <member name="M:Plugin.Xamarin_HttpService.Implementation.Xamarin_HttpServicePCLImplementation.GETAsync(System.String,System.Collections.Generic.Dictionary{System.String,System.String})">
+            <summary>
+            Current settings to use for PCL
+            </summary>
+        </member>
+        <member name="M:Plugin.Xamarin_HttpService.Implementation.Xamarin_HttpServicePCLImplementation.POSTAsync``1(System.String,``0,System.Collections.Generic.Dictionary{System.String,System.String})">
+            <summary>
+            Current settings to use for PCL
+            </summary>
+        </member>
+        <member name="M:Plugin.Xamarin_HttpService.Implementation.Xamarin_HttpServicePCLImplementation.validateStatusCodes(System.Net.Http.HttpResponseMessage)">
+            <summary>
+            Current settings to use for PCL
+            </summary>
+        </member>
+    </members>
+</doc>
