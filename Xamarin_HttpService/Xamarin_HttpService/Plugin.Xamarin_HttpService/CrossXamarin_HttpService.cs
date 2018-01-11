@@ -51,6 +51,8 @@ namespace Plugin.Xamarin_HttpService
         /// <summary>
         /// Current settings to use for PCL
         /// </summary>
+        /// 
+#if PORTABLE
         public static IXamarin_HttpService Current_PCL
         {
             get
@@ -63,6 +65,7 @@ namespace Plugin.Xamarin_HttpService
                 return ret;
             }
         }
+#endif
 
         static IXamarin_HttpService_PlatformImplementation CreateXamarin_HttpService()
         {
