@@ -1,0 +1,11 @@
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Plugin.Xamarin_HttpService\obj\Debug\Plugin.Xamarin_HttpService.csprojResolveAssemblyReference.cache
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Plugin.Xamarin_HttpService\bin\Debug\Plugin.Xamarin_HttpService.dll
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Plugin.Xamarin_HttpService\bin\Debug\Plugin.Xamarin_HttpService.pdb
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Plugin.Xamarin_HttpService\bin\Debug\Newtonsoft.Json.dll
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Plugin.Xamarin_HttpService\bin\Debug\Plugin.Xamarin_HttpService.Abstractions.dll
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Plugin.Xamarin_HttpService\bin\Debug\Plugin.Xamarin_HttpService.Abstractions.pdb
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Plugin.Xamarin_HttpService\bin\Debug\Newtonsoft.Json.xml
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Plugin.Xamarin_HttpService\obj\Debug\Plugin.Xamarin_HttpService.dll
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Plugin.Xamarin_HttpService\obj\Debug\Plugin.Xamarin_HttpService.pdb
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Plugin.Xamarin_HttpService\obj\Debug\Plugin.Xamarin_HttpService.dll.mdb
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Plugin.Xamarin_HttpService\bin\Debug\Plugin.Xamarin_HttpService.dll.mdb

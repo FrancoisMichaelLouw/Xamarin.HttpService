@@ -1,0 +1,14 @@
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Plugin.Xamarin_HttpService.Android\obj\Debug\Plugin.Xamarin_HttpService.Android.csprojResolveAssemblyReference.cache
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Plugin.Xamarin_HttpService.Android\bin\Debug\Plugin.Xamarin_HttpService.dll
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Plugin.Xamarin_HttpService.Android\bin\Debug\Plugin.Xamarin_HttpService.pdb
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Plugin.Xamarin_HttpService.Android\bin\Debug\Plugin.Xamarin_HttpService.apk
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Plugin.Xamarin_HttpService.Android\bin\Debug\Plugin.Xamarin_HttpService-Signed.apk
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Plugin.Xamarin_HttpService.Android\bin\Debug\Newtonsoft.Json.dll
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Plugin.Xamarin_HttpService.Android\bin\Debug\Plugin.Xamarin_HttpService.Abstractions.dll
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Plugin.Xamarin_HttpService.Android\bin\Debug\Plugin.Xamarin_HttpService.Abstractions.pdb
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Plugin.Xamarin_HttpService.Android\bin\Debug\Newtonsoft.Json.xml
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Plugin.Xamarin_HttpService.Android\obj\Debug\Plugin.Xamarin_HttpService.dll
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Plugin.Xamarin_HttpService.Android\obj\Debug\Plugin.Xamarin_HttpService.pdb
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Plugin.Xamarin_HttpService.Android\obj\Debug\android\bin\Plugin.Xamarin_HttpService.apk
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Plugin.Xamarin_HttpService.Android\obj\Debug\R.cs.flag
+D:\Github\NUGET_PACKAGES\Xamarin.HttpService\Plugin.Xamarin_HttpService.Android\obj\Debug\uploadflags.txt
